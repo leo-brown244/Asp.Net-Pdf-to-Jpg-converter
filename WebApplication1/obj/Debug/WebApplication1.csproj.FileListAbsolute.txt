@@ -1,0 +1,7 @@
+E:\Web\dotNet\setup\Demo\WebApplication1\bin\WebApplication1.dll.config
+E:\Web\dotNet\setup\Demo\WebApplication1\bin\WebApplication1.dll
+E:\Web\dotNet\setup\Demo\WebApplication1\bin\WebApplication1.pdb
+E:\Web\dotNet\setup\Demo\WebApplication1\obj\Debug\WebApplication1.csprojAssemblyReference.cache
+E:\Web\dotNet\setup\Demo\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+E:\Web\dotNet\setup\Demo\WebApplication1\obj\Debug\WebApplication1.dll
+E:\Web\dotNet\setup\Demo\WebApplication1\obj\Debug\WebApplication1.pdb
